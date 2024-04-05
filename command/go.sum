@@ -1,0 +1,4 @@
+github.com/hbjydev/go-submods-example v0.1.0 h1:UolQ6Fb5DGCV6IFxgRYiyPWtdj2yhMeA9Z7kT8oadjg=
+github.com/hbjydev/go-submods-example v0.1.0/go.mod h1:VxQUR6aZbDTygPLF6ivy5pJJVws47RpevIiVY2tUdJM=
+github.com/hbjydev/go-submods-example/submod v0.2.0 h1:cTrAnTOWjpHD3mHrmeUvyC3qUodqyNvsNPsa5sGmAPE=
+github.com/hbjydev/go-submods-example/submod v0.2.0/go.mod h1:SyZ2pvwX04zKjQuIv81VgYhzTeNYUkAVYKcR8L+pzP0=
