@@ -22,3 +22,10 @@ go get github.com/hbjydev/go-submods-example
 # Will retrieve the latest version of the `submod` module
 go get github.com/hbjydev/go-submods-example/submod
 ```
+
+## Another Thing
+
+They are independently viewable on pkg.go.dev too!
+
+- [Root module](https://pkg.go.dev/github.com/hbjydev/go-submods-example)
+- [Submodule](https://pkg.go.dev/github.com/hbjydev/go-submods-example/submod)
